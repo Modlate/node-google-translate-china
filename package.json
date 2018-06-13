@@ -1,12 +1,12 @@
 {
-  "name": "node-google-translate-skidz",
-  "description": "Simple Node.js library for talking to Google's Translate API for free.",
-  "version": "1.1.2",
+  "name": "node-google-translate-china",
+  "description": "A China fork for node-google-translate-skidz, while uses Google's Translate API for free.",
+  "version": "1.0.0",
   "author": "StaticKidz <statickidz@gmail.com>",
   "homepage": "https://statickidz.com",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/statickidz/node-google-translate-free.git"
+    "url": "git+https://github.com/Modlate/node-google-translate-china"
   },
   "dependencies": {
     "lodash": "^4.17.10",
@@ -22,7 +22,7 @@
     "translate"
   ],
   "bugs": {
-    "url": "https://github.com/statickidz/node-google-translate-free/issues"
+    "url": "https://github.com/Modlate/node-google-translate-china/issues"
   },
   "directories": {
     "test": "test"
@@ -33,5 +33,5 @@
   "scripts": {
     "test": "mocha"
   },
-  "license": "ISC"
+  "license": "MIT"
 }
