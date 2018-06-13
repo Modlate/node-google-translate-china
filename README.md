@@ -1,17 +1,21 @@
-# Google Translate Node JS [![Build Status](https://travis-ci.org/statickidz/node-google-translate-skidz.svg?branch=master)](https://travis-ci.org/statickidz/node-google-translate-skidz)
+# Google Translate Node JS
 
 Google Translate API client for node.js. 
 
 ## Install
 
 ```js
-npm install node-google-translate-skidz --save
+npm install node-google-translate-china --save
+```
+OR
+```js
+yarn add node-google-translate-china
 ```
 
 ## USAGE
 
 ```js
-var translate = require('node-google-translate-skidz');
+var translate = require('node-google-translate-china');
 
 translate({
   text: 'text',
